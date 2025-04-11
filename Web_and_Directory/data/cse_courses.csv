@@ -1,0 +1,97 @@
+Year,Term,Course Code,Course Title,Status,Credits,Prerequisites,Course Type,Description
+First,First,0714 02 CSE 1100,Computer Fundamentals,Core,1.5,None,Theory,Computer Fundamentals (0714 02 CSE 1100): Theory course with 1.5 credits. Prerequisite: None.
+First,First,0714 02 CSE 1101,Structured Programming,Core,3.0,None,Theory,Structured Programming (0714 02 CSE 1101): Theory course with 3.0 credits. Prerequisite: None.
+First,First,0714 02 CSE 1102,Structured Programming Laboratory,Core,1.5,None,Sessional,Structured Programming Laboratory (0714 02 CSE 1102): Sessional course with 1.5 credits. Prerequisite: None.
+First,First,0714 02 CSE 1103,Discrete Mathematics,Core,3.0,None,Theory,Discrete Mathematics (0714 02 CSE 1103): Theory course with 3.0 credits. Prerequisite: None.
+First,First,0541 02 Math 1151,Calculus,Core,3.0,None,Theory,Calculus (0541 02 Math 1151): Theory course with 3.0 credits. Prerequisite: None.
+First,First,0533 02 Phy 1151,Physics,Core,3.0,None,Theory,Physics (0533 02 Phy 1151): Theory course with 3.0 credits. Prerequisite: None.
+First,First,0533 02 Phy 1152,Physics Laboratory,Core,1.0,None,Sessional,Physics Laboratory (0533 02 Phy 1152): Sessional course with 1.0 credits. Prerequisite: None.
+First,First,0231 02 Eng 1151,English,Core,2.0,None,Theory,English (0231 02 Eng 1151): Theory course with 2.0 credits. Prerequisite: None.
+First,First,0231 02 Eng 1152,English Skills Laboratory,Core,1.0,None,Sessional,English Skills Laboratory (0231 02 Eng 1152): Sessional course with 1.0 credits. Prerequisite: None.
+First,Second,0714 02 CSE 1200,Structured Programming Project,Core,1.5,None,Sessional,Structured Programming Project (0714 02 CSE 1200): Sessional course with 1.5 credits. Prerequisite: None.
+First,Second,0714 02 CSE 1201,Object Oriented Programming,Core,3.0,None,Theory,Object Oriented Programming (0714 02 CSE 1201): Theory course with 3.0 credits. Prerequisite: None.
+First,Second,0714 02 CSE 1202,Object Oriented Programming Laboratory,Core,1.5,None,Sessional,Object Oriented Programming Laboratory (0714 02 CSE 1202): Sessional course with 1.5 credits. Prerequisite: None.
+First,Second,0714 02 ECE 1251,Electrical Circuits,Core,3.0,None,Theory,Electrical Circuits (0714 02 ECE 1251): Theory course with 3.0 credits. Prerequisite: None.
+First,Second,0714 02 ECE 1252,Electrical Circuits Laboratory,Core,1.0,None,Sessional,Electrical Circuits Laboratory (0714 02 ECE 1252): Sessional course with 1.0 credits. Prerequisite: None.
+First,Second,0715 02 ME 1251,Mechanics and Heat Engineering,Core,2.0,None,Theory,Mechanics and Heat Engineering (0715 02 ME 1251): Theory course with 2.0 credits. Prerequisite: None.
+First,Second,0715 02 ME 1252,Engineering Drawing and CAD Project,Core,1.0,None,Sessional,Engineering Drawing and CAD Project (0715 02 ME 1252): Sessional course with 1.0 credits. Prerequisite: None.
+First,Second,0541 02 Math 1251,Coordinate Geometry and Linear Algebra,Core,3.0,None,Theory,Coordinate Geometry and Linear Algebra (0541 02 Math 1251): Theory course with 3.0 credits. Prerequisite: None.
+First,Second,0531 02 Chem 1251,Chemistry,Core,3.0,None,Theory,Chemistry (0531 02 Chem 1251): Theory course with 3.0 credits. Prerequisite: None.
+First,Second,0311 02 Econ 1251,Economics for Engineers,Core,2.0,None,Theory,Economics for Engineers (0311 02 Econ 1251): Theory course with 2.0 credits. Prerequisite: None.
+Second,First,0714 02 CSE 2100,Advanced Programming Laboratory,Core,1.5,None,Sessional,Advanced Programming Laboratory (0714 02 CSE 2100): Sessional course with 1.5 credits. Prerequisite: None.
+Second,First,0714 02 CSE 2101,Data Structures,Core,3.0,0714 02 CSE 1101/0714 02 CSE 1103,Theory,Data Structures (0714 02 CSE 2101): Theory course with 3.0 credits. Prerequisite: 0714 02 CSE 1101/0714 02 CSE 1103.
+Second,First,0714 02 CSE 2102,Data Structures Laboratory,Core,1.5,None,Sessional,Data Structures Laboratory (0714 02 CSE 2102): Sessional course with 1.5 credits. Prerequisite: None.
+Second,First,0714 02 CSE 2103,Numerical Methods for Engineers,Core,3.0,None,Theory,Numerical Methods for Engineers (0714 02 CSE 2103): Theory course with 3.0 credits. Prerequisite: None.
+Second,First,0714 02 CSE 2104,Numerical Methods for Engineers Laboratory,Core,1.0,None,Sessional,Numerical Methods for Engineers Laboratory (0714 02 CSE 2104): Sessional course with 1.0 credits. Prerequisite: None.
+Second,First,0714 02 CSE 2105,Digital Logic Design,Core,3.0,None,Theory,Digital Logic Design (0714 02 CSE 2105): Theory course with 3.0 credits. Prerequisite: None.
+Second,First,0714 02 CSE 2106,Digital Logic Design Laboratory,Core,1.5,None,Sessional,Digital Logic Design Laboratory (0714 02 CSE 2106): Sessional course with 1.5 credits. Prerequisite: None.
+Second,First,0714 02 ECE 2151,Electronic Devices and Circuits,Core,3.0,None,Theory,Electronic Devices and Circuits (0714 02 ECE 2151): Theory course with 3.0 credits. Prerequisite: None.
+Second,First,0714 02 ECE 2152,Electronic Devices and Circuits Laboratory,Core,1.0,None,Sessional,Electronic Devices and Circuits Laboratory (0714 02 ECE 2152): Sessional course with 1.0 credits. Prerequisite: None.
+Second,First,0541 02 Math 2151,Differential Equations,Core,3.0,None,Theory,Differential Equations (0541 02 Math 2151): Theory course with 3.0 credits. Prerequisite: None.
+Second,Second,0714 02 CSE 2201,Algorithms,Core,3.0,0714 02 CSE 1103/0714 02 CSE 2101,Theory,Algorithms (0714 02 CSE 2201): Theory course with 3.0 credits. Prerequisite: 0714 02 CSE 1103/0714 02 CSE 2101.
+Second,Second,0714 02 CSE 2202,Algorithms Laboratory,Core,1.5,None,Sessional,Algorithms Laboratory (0714 02 CSE 2202): Sessional course with 1.5 credits. Prerequisite: None.
+Second,Second,0714 02 CSE 2203,Computer Architecture,Core,3.0,None,Theory,Computer Architecture (0714 02 CSE 2203): Theory course with 3.0 credits. Prerequisite: None.
+Second,Second,0714 02 CSE 2204,Computer Architecture and Assembly Language Laboratory/project,Core,1.0,None,Sessional,Computer Architecture and Assembly Language Laboratory/project (0714 02 CSE 2204): Sessional course with 1.0 credits. Prerequisite: None.
+Second,Second,0714 02 CSE 2205,Database Systems,Core,3.0,None,Theory,Database Systems (0714 02 CSE 2205): Theory course with 3.0 credits. Prerequisite: None.
+Second,Second,0714 02 CSE 2206,Database Systems Project/Fieldwork,Core,1.5,None,Sessional,Database Systems Project/Fieldwork (0714 02 CSE 2206): Sessional course with 1.5 credits. Prerequisite: None.
+Second,Second,0714 02 ECE 2251,Digital Electronics,Core,2.0,None,Theory,Digital Electronics (0714 02 ECE 2251): Theory course with 2.0 credits. Prerequisite: None.
+Second,Second,0541 02 Math 2251,"Vector Analysis, Complex Variable and Mathematical Methods",Core,3.0,None,Theory,"Vector Analysis, Complex Variable and Mathematical Methods (0541 02 Math 2251): Theory course with 3.0 credits. Prerequisite: None."
+Third,First,0714 02 CSE 3101,Data Communication and Computer Networks,Core,3.0,None,Theory,Data Communication and Computer Networks (0714 02 CSE 3101): Theory course with 3.0 credits. Prerequisite: None.
+Third,First,0714 02 CSE 3102,Data Communication and Computer Networks Laboratory/Fieldwork,Core,1.0,None,Sessional,Data Communication and Computer Networks Laboratory/Fieldwork (0714 02 CSE 3102): Sessional course with 1.0 credits. Prerequisite: None.
+Third,First,0714 02 CSE 3103,Software Engineering and Information Systems,Core,3.0,None,Theory,Software Engineering and Information Systems (0714 02 CSE 3103): Theory course with 3.0 credits. Prerequisite: None.
+Third,First,0714 02 CSE 3104,Software Engineering and Information Systems Project/Fieldwork,Core,1.5,None,Sessional,Software Engineering and Information Systems Project/Fieldwork (0714 02 CSE 3104): Sessional course with 1.5 credits. Prerequisite: None.
+Third,First,0714 02 CSE 3105,Microprocessors and Microcontrollers,Core,3.0,None,Theory,Microprocessors and Microcontrollers (0714 02 CSE 3105): Theory course with 3.0 credits. Prerequisite: None.
+Third,First,0714 02 CSE 3106,Microprocessors and Microcontrollers Laboratory/Project/Fieldwork,Core,1.0,None,Sessional,Microprocessors and Microcontrollers Laboratory/Project/Fieldwork (0714 02 CSE 3106): Sessional course with 1.0 credits. Prerequisite: None.
+Third,First,0714 02 CSE 3107,Operating System and Systems Programming,Core,3.0,None,Theory,Operating System and Systems Programming (0714 02 CSE 3107): Theory course with 3.0 credits. Prerequisite: None.
+Third,First,0714 02 CSE 3108,Operating System and Systems Programming Laboratory/Project,Core,1.0,None,Sessional,Operating System and Systems Programming Laboratory/Project (0714 02 CSE 3108): Sessional course with 1.0 credits. Prerequisite: None.
+Third,First,0542 02 Stat 3151,Statistics for Engineers,Core,3.0,None,Theory,Statistics for Engineers (0542 02 Stat 3151): Theory course with 3.0 credits. Prerequisite: None.
+Third,First,0413 02 BA 3151,Industrial Management,Core,2.0,None,Theory,Industrial Management (0413 02 BA 3151): Theory course with 2.0 credits. Prerequisite: None.
+Third,Second,0714 02 CSE 3201,Artificial Intelligence,Core,3.0,None,Theory,Artificial Intelligence (0714 02 CSE 3201): Theory course with 3.0 credits. Prerequisite: None.
+Third,Second,0714 02 CSE 3202,Artificial Intelligence Laboratory/Project/Fieldwork,Core,1.0,None,Sessional,Artificial Intelligence Laboratory/Project/Fieldwork (0714 02 CSE 3202): Sessional course with 1.0 credits. Prerequisite: None.
+Third,Second,0714 02 CSE 3204,Technical Writing and Presentation,Core,1.0,None,Sessional,Technical Writing and Presentation (0714 02 CSE 3204): Sessional course with 1.0 credits. Prerequisite: None.
+Third,Second,0714 02 ECE 3251,Electrical Drives and Instrumentation,Core,3.0,None,Theory,Electrical Drives and Instrumentation (0714 02 ECE 3251): Theory course with 3.0 credits. Prerequisite: None.
+Third,Second,0714 02 ECE 3252,Electrical Drives and Instrumentation Laboratory,Core,1.0,None,Sessional,Electrical Drives and Instrumentation Laboratory (0714 02 ECE 3252): Sessional course with 1.0 credits. Prerequisite: None.
+Third,Second,0413 02 BA 3251,Accounting,Core,2.0,None,Theory,Accounting (0413 02 BA 3251): Theory course with 2.0 credits. Prerequisite: None.
+Third,Second,0421 02 Law 3251,Cyber and Intellectual Property Law,Core,2.0,None,Theory,Cyber and Intellectual Property Law (0421 02 Law 3251): Theory course with 2.0 credits. Prerequisite: None.
+Third,Second,0313 02 Psy 3251,Engineering Ethics and Environment Protection,Core,2.0,None,Theory,Engineering Ethics and Environment Protection (0313 02 Psy 3251): Theory course with 2.0 credits. Prerequisite: None.
+Third,Second,0714 02 CSE 3221,Simulation and Modeling,Optional,3.0,None,Theory,Simulation and Modeling (0714 02 CSE 3221): Theory course with 3.0 credits. Prerequisite: None.
+Third,Second,0714 02 CSE 3222,Simulation and Modeling Laboratory/Fieldwork,Optional,1.0,None,Sessional,Simulation and Modeling Laboratory/Fieldwork (0714 02 CSE 3222): Sessional course with 1.0 credits. Prerequisite: None.
+Third,Second,0714 02 CSE 3223,Neural Networks and Fuzzy Systems,Optional,3.0,None,Theory,Neural Networks and Fuzzy Systems (0714 02 CSE 3223): Theory course with 3.0 credits. Prerequisite: None.
+Third,Second,0714 02 CSE 3224,Neural Networks and Fuzzy Systems Laboratory/Fieldwork,Optional,1.0,None,Sessional,Neural Networks and Fuzzy Systems Laboratory/Fieldwork (0714 02 CSE 3224): Sessional course with 1.0 credits. Prerequisite: None.
+Third,Second,0714 02 CSE 3225,Digital Image Processing,Optional,3.0,None,Theory,Digital Image Processing (0714 02 CSE 3225): Theory course with 3.0 credits. Prerequisite: None.
+Third,Second,0714 02 CSE 3226,Digital Image Processing Laboratory/Project,Optional,1.0,None,Sessional,Digital Image Processing Laboratory/Project (0714 02 CSE 3226): Sessional course with 1.0 credits. Prerequisite: None.
+Third,Second,0714 02 CSE 3227,Computer Peripherals and Interfacing,Optional,3.0,None,Theory,Computer Peripherals and Interfacing (0714 02 CSE 3227): Theory course with 3.0 credits. Prerequisite: None.
+Third,Second,0714 02 CSE 3228,Computer Peripherals and Interfacing Laboratory/Project,Optional,1.0,None,Sessional,Computer Peripherals and Interfacing Laboratory/Project (0714 02 CSE 3228): Sessional course with 1.0 credits. Prerequisite: None.
+Fourth,First,0714 02 CSE 4100,Thesis Proposal,Core,3.0,Completion of minimum 90 credits in previous terms,Theory,Thesis Proposal (0714 02 CSE 4100): Theory course with 3.0 credits. Prerequisite: Completion of minimum 90 credits in previous terms.
+Fourth,First,0714 02 CSE 4103,Compiler Design,Core,3.0,None,Theory,Compiler Design (0714 02 CSE 4103): Theory course with 3.0 credits. Prerequisite: None.
+Fourth,First,0714 02 CSE 4104,Compiler Design Laboratory/Project,Core,1.5,None,Practical,Compiler Design Laboratory/Project (0714 02 CSE 4104): Practical course with 1.5 credits. Prerequisite: None.
+Fourth,First,0714 02 CSE 4105,Computer Graphics,Core,3.0,None,Theory,Computer Graphics (0714 02 CSE 4105): Theory course with 3.0 credits. Prerequisite: None.
+Fourth,First,0714 02 CSE 4106,Computer Graphics Laboratory/Project,Core,1.5,None,Practical,Computer Graphics Laboratory/Project (0714 02 CSE 4106): Practical course with 1.5 credits. Prerequisite: None.
+Fourth,First,0714 02 CSE 4107,Information Security,Core,3.0,None,Theory,Information Security (0714 02 CSE 4107): Theory course with 3.0 credits. Prerequisite: None.
+Fourth,First,0714 02 CSE 4108,Information Security Laboratory/Project,Core,1.5,None,Practical,Information Security Laboratory/Project (0714 02 CSE 4108): Practical course with 1.5 credits. Prerequisite: None.
+Fourth,First,0714 02 CSE 4109,Mathematical Analysis for Computer Science,Core,2.0,None,Theory,Mathematical Analysis for Computer Science (0714 02 CSE 4109): Theory course with 2.0 credits. Prerequisite: None.
+Fourth,First,0714 02 CSE 4121,Parallel and Distributed Processing,Optional,3.0,None,Theory,Parallel and Distributed Processing (0714 02 CSE 4121): Theory course with 3.0 credits. Prerequisite: None.
+Fourth,First,0714 02 CSE 4123,Machine Learning,Optional,3.0,None,Theory,Machine Learning (0714 02 CSE 4123): Theory course with 3.0 credits. Prerequisite: None.
+Fourth,First,0714 02 CSE 4125,Human Computer Interaction,Optional,3.0,None,Theory,Human Computer Interaction (0714 02 CSE 4125): Theory course with 3.0 credits. Prerequisite: None.
+Fourth,First,0714 02 CSE 4127,Distributed Database System,Optional,3.0,None,Theory,Distributed Database System (0714 02 CSE 4127): Theory course with 3.0 credits. Prerequisite: None.
+Fourth,First,0714 02 CSE 4129,Graph Theory,Optional,3.0,None,Theory,Graph Theory (0714 02 CSE 4129): Theory course with 3.0 credits. Prerequisite: None.
+Fourth,First,0714 02 CSE 4131,Theory of Computation,Optional,3.0,None,Theory,Theory of Computation (0714 02 CSE 4131): Theory course with 3.0 credits. Prerequisite: None.
+Fourth,First,0714 02 CSE 4133,Computational Geometry,Optional,3.0,None,Theory,Computational Geometry (0714 02 CSE 4133): Theory course with 3.0 credits. Prerequisite: None.
+Fourth,First,0714 02 ECE 4151,VLSI Design and Testability,Optional,3.0,None,Theory,VLSI Design and Testability (0714 02 ECE 4151): Theory course with 3.0 credits. Prerequisite: None.
+Fourth,First,0714 02 ECE 4153,Wireless and Optical Networks,Optional,3.0,None,Theory,Wireless and Optical Networks (0714 02 ECE 4153): Theory course with 3.0 credits. Prerequisite: None.
+Fourth,Second,0714 02 CSE 4200,Thesis,Core,6.0,None,Project,Thesis (0714 02 CSE 4200): Project course with 6.0 credits. Prerequisite: None.
+Fourth,Second,0714 02 CSE 4202,Web Programming & Mobile Applications Development,Core,2.25,None,Theory,Web Programming & Mobile Applications Development (0714 02 CSE 4202): Theory course with 2.25 credits. Prerequisite: None.
+Fourth,Second,0714 02 CSE 4204,Viva-Voce,Core,1.5,None,Practical,Viva-Voce (0714 02 CSE 4204): Practical course with 1.5 credits. Prerequisite: None.
+Fourth,Second,0413 02 BA 4251,Business Entrepreneurship,Core,2.0,None,Theory,Business Entrepreneurship (0413 02 BA 4251): Theory course with 2.0 credits. Prerequisite: None.
+Fourth,Second,0714 02 CSE 4221,Pattern Recognition,Optional,3.0,None,Theory,Pattern Recognition (0714 02 CSE 4221): Theory course with 3.0 credits. Prerequisite: None.
+Fourth,Second,0714 02 CSE 4222,Pattern Recognition Laboratory/Project,Optional,1.5,None,Practical,Pattern Recognition Laboratory/Project (0714 02 CSE 4222): Practical course with 1.5 credits. Prerequisite: None.
+Fourth,Second,0714 02 CSE 4223,Data Mining,Optional,3.0,None,Theory,Data Mining (0714 02 CSE 4223): Theory course with 3.0 credits. Prerequisite: None.
+Fourth,Second,0714 02 CSE 4224,Data Mining Laboratory/Fieldwork,Optional,1.5,None,Practical,Data Mining Laboratory/Fieldwork (0714 02 CSE 4224): Practical course with 1.5 credits. Prerequisite: None.
+Fourth,Second,0714 02 CSE 4225,Digital System Design,Optional,3.0,None,Theory,Digital System Design (0714 02 CSE 4225): Theory course with 3.0 credits. Prerequisite: None.
+Fourth,Second,0714 02 CSE 4226,Digital System Design Laboratory/Project,Optional,1.5,None,Practical,Digital System Design Laboratory/Project (0714 02 CSE 4226): Practical course with 1.5 credits. Prerequisite: None.
+Fourth,Second,0714 02 CSE 4227,Client Server Technology,Optional,3.0,None,Theory,Client Server Technology (0714 02 CSE 4227): Theory course with 3.0 credits. Prerequisite: None.
+Fourth,Second,0714 02 CSE 4228,Client Server Technology Laboratory/Project,Optional,1.5,None,Practical,Client Server Technology Laboratory/Project (0714 02 CSE 4228): Practical course with 1.5 credits. Prerequisite: None.
+Fourth,Second,0714 02 CSE 4229,Computer Animation and Virtual Reality,Optional,3.0,None,Theory,Computer Animation and Virtual Reality (0714 02 CSE 4229): Theory course with 3.0 credits. Prerequisite: None.
+Fourth,Second,0714 02 CSE 4230,Computer Animation and Virtual Reality Laboratory/Project,Optional,1.5,None,Practical,Computer Animation and Virtual Reality Laboratory/Project (0714 02 CSE 4230): Practical course with 1.5 credits. Prerequisite: None.
+Fourth,Second,0714 02 CSE 4231,Real-Time Embedded Systems,Optional,3.0,None,Theory,Real-Time Embedded Systems (0714 02 CSE 4231): Theory course with 3.0 credits. Prerequisite: None.
+Fourth,Second,0714 02 CSE 4232,Real-Time Embedded Systems Sessional/Project/Fieldwork,Optional,1.5,None,Practical,Real-Time Embedded Systems Sessional/Project/Fieldwork (0714 02 CSE 4232): Practical course with 1.5 credits. Prerequisite: None.

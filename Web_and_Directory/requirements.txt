@@ -1,0 +1,6 @@
+groq
+bs4
+requests
+python-dotenv
+llama-index-embeddings-langchain
+langchain-community

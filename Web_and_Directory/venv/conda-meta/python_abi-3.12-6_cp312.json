@@ -1,0 +1,31 @@
+{
+  "build": "6_cp312",
+  "build_number": 6,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [
+    "python 3.12.* *_cpython"
+  ],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\Durjay\\anaconda3\\pkgs\\python_abi-3.12-6_cp312",
+  "files": [],
+  "fn": "python_abi-3.12-6_cp312.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Durjay\\anaconda3\\pkgs\\python_abi-3.12-6_cp312",
+    "type": 1
+  },
+  "md5": "fd9176ac032bea8da0cfcc6fa3f724f1",
+  "name": "python_abi",
+  "package_tarball_full_path": "C:\\Users\\Durjay\\anaconda3\\pkgs\\python_abi-3.12-6_cp312.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "a36a7ba34e5e459da2ba89c3b4021798db26768562f01c00f07a6b33f4a16987",
+  "size": 7414,
+  "subdir": "win-64",
+  "timestamp": 1743483208000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/python_abi-3.12-6_cp312.conda",
+  "version": "3.12"
+}

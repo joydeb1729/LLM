@@ -1,0 +1,5 @@
+cd LLM\Web_and_Directory
+
+conda activate D:\codes\LLM\Web_and_Directory\venv
+
+conda deactivate
